@@ -1,4 +1,4 @@
-ECOSMARTNET
+![plot](./source/_static/img/logo_trans.png)
 ========
 
 $project will solve your problem of where to start with documentation,
